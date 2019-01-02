@@ -1,0 +1,20 @@
+{
+  "name": "logsense-lambda",
+  "version": "0.0.1",
+  "description": "Logsense Lambda function. Based on node-lambda-template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/collectivesnse/logsense-lambda.git"
+  },
+  "author": "pmaciolek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://git://github.com/collectivesnse/logsense-lambda/issues"
+  },
+  "homepage": "https://logsense.com",
+  "devDependencies": {
+    "zlib": "^1.0.5",
+    "fluent-logger": "^3.2.2"
+  }
+}
