@@ -1,6 +1,6 @@
 {
   "name": "logsense-lambda",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Logsense Lambda function. Based on node-lambda-template",
   "main": "index.js",
   "repository": {
